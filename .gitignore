@@ -1,0 +1,7 @@
+*.csv
+*.xlsx
+*.log
+.DS_Store  
+*.tmp
+.env
+.ipynb_checkpoints/
